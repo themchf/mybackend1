@@ -82,4 +82,4 @@ if st.sidebar.button("Run Prediction"):
                 st.write("*Note: Higher values typically indicate higher drug efficacy against a target.*")
                 
             st.success("Analysis Complete!")
-            st.info("Architecture Note: To upgrade this to a production-grade tool, train a model locally on a dataset like ChEMBL, save it as a `model.pkl` file, upload it to your GitHub, and replace the `load_ml_model` function to load that file via the `joblib` library.")
+            st.info("Made by MKF (All rights reserved to MKF Innovations")
