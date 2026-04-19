@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestRegressor
 # --- UI and Page Setup ---
 st.set_page_config(page_title="Drug Discovery ML", page_icon="🧬", layout="wide")
 
-st.title("🧬 Machine Learning for Drug Discovery")
+st.title("🧬 ML - Drug Discovery by MKF")
 st.markdown("""
 Welcome to the Drug Discovery prediction tool. 
 This application processes chemical compounds using **SMILES** notation, calculates their molecular descriptors based on Lipinski's Rule of Five, and uses a Machine Learning model to predict potential bioactivity.
