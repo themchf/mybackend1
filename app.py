@@ -82,4 +82,4 @@ if st.sidebar.button("Run Prediction"):
                 st.write("*Note: Higher values typically indicate higher drug efficacy against a target.*")
                 
             st.success("Analysis Complete!")
-            st.info("Made by MKF (All rights reserved to MKF Innovations")
+            st.info("Made by MKF (All rights reserved to MKF Innovations)")
