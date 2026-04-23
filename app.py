@@ -7,7 +7,7 @@ from rdkit.Chem import AllChem, Descriptors, QED, Lipinski
 from sklearn.ensemble import GradientBoostingRegressor
 
 # --- Global UI Optimization ---
-st.set_page_config(page_title="Universal Bio-Intelligence OS", layout="wide")
+st.set_page_config(page_title="MKF Bio-Intelligence OS", layout="wide")
 
 st.markdown("""
     <style>
