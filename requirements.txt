@@ -3,5 +3,5 @@ rdkit
 pandas
 scikit-learn
 numpy
-chembl_webresource_client
+pubchempy
 matplotlib
