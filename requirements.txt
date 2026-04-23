@@ -1,5 +1,6 @@
 streamlit
+rdkit
 pandas
 scikit-learn
-rdkit-pypi
 numpy
+Pillow
