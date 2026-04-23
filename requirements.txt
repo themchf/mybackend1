@@ -4,4 +4,4 @@ pandas
 scikit-learn
 numpy
 pubchempy
-matplotlib
+xgboost
