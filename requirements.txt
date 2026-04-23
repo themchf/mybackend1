@@ -3,4 +3,5 @@ rdkit
 pandas
 scikit-learn
 numpy
-Pillow
+chembl_webresource_client
+matplotlib
