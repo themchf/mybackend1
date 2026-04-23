@@ -61,7 +61,7 @@ def load_global_model():
     return model
 
 # --- Application Logic ---
-st.title("🧬 Universal Drug Discovery & QSAR Intelligence")
+st.title("🧬MKF Drug Discovery & QSAR Intelligence")
 st.write("Professional-grade analysis for any SMILES notation using PubChem & AI Inference.")
 
 # Input Field
