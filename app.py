@@ -8,7 +8,7 @@ from rdkit.Chem import Descriptors3D
 from xgboost import XGBRegressor
 
 # --- Global UI Optimization ---
-st.set_page_config(page_title="Apex Bio-Intelligence 5.0", layout="wide", page_icon="🧬")
+st.set_page_config(page_title="MKF Bio-Intelligence 5.0", layout="wide", page_icon="🧬")
 
 st.markdown("""
     <style>
